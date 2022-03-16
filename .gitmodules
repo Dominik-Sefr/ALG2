@@ -1,3 +1,9 @@
 [submodule "Bus"]
 	path = Bus
 	url = git@github.com:Dominik-Sefr/Bus.git
+[submodule "Polynominal"]
+	path = Polynominal
+	url = git@github.com:Dominik-Sefr/Polynominal.git
+[submodule "Polynomial"]
+	path = Polynomial
+	url = git@github.com:Dominik-Sefr/Polynomial.git
