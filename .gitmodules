@@ -1,0 +1,3 @@
+[submodule "Bus"]
+	path = Bus
+	url = git@github.com:Dominik-Sefr/Bus.git
