@@ -7,3 +7,6 @@
 [submodule "Polynomial"]
 	path = Polynomial
 	url = git@github.com:Dominik-Sefr/Polynomial.git
+[submodule "MoneyBox"]
+	path = MoneyBox
+	url = git@github.com:Dominik-Sefr/MoneyBox.git
