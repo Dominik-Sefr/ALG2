@@ -10,3 +10,6 @@
 [submodule "MoneyBox"]
 	path = MoneyBox
 	url = git@github.com:Dominik-Sefr/MoneyBox.git
+[submodule "Competition"]
+	path = Competition
+	url = git@github.com:Dominik-Sefr/Competition.git
